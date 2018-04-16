@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.thoughtworks.FizzBuzzGameTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-04-16T12:47:31" hostname="DESKTOP-Q8J7T3P" time="0.014">
+  <properties/>
+  <testcase name="testIsContain3" classname="com.thoughtworks.FizzBuzzGameTest" time="0.01"/>
+  <testcase name="testIsFixOfTimes" classname="com.thoughtworks.FizzBuzzGameTest" time="0.0"/>
+  <testcase name="testIsThreeOfTimes" classname="com.thoughtworks.FizzBuzzGameTest" time="0.0"/>
+  <testcase name="should_return_Fizz_when_have_3" classname="com.thoughtworks.FizzBuzzGameTest" time="0.0"/>
+  <testcase name="testIsSevenOfTimes" classname="com.thoughtworks.FizzBuzzGameTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
